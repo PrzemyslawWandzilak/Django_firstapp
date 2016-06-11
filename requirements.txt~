@@ -1,0 +1,17 @@
+Django<1.9
+django-bower
+django-authority
+xlsxwriter
+pymysql
+beautifulsoup4
+python-dateutil
+django-mailer
+html5lib
+addict
+djangorestframework<=3.1.2
+markdown
+django-filter==0.10.0
+drf-extensions
+-e git+https://github.com/MichalMazurek/django-locksmith@7477ca021bf341d2da66569743762370bd0fff5b#egg=django-locksmith
+django_compressor<2.0
+dateparser
