@@ -1,2 +1,3 @@
 # Django_firstapp
-First app in Django framework
+First app in Django framework.
+
